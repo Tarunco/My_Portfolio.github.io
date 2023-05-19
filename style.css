@@ -370,13 +370,13 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .js::before{
-    width: 75%;
-}
-.skills-content .right .Bootstrap::before{
     width: 80%;
 }
+.skills-content .right .Bootstrap::before{
+    width: 85%;
+}
 .skills-content .right .Ajax::before{
-    width: 60%;
+    width: 75%;
 }
 
 /* Project section styling */
