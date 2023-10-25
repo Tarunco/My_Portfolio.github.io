@@ -32,6 +32,19 @@ html{
 section{
     padding: 100px 0;
 }
+
+.social-links{
+    margin-top: 5%:
+    margin-right: 100px; 
+}
+
+.social-links a{
+    font-size: 30px;
+    color:crimson;
+    margin-left: 20px;
+}
+
+
 .max-width{
     max-width: 1300px;
     padding: 0 80px;
