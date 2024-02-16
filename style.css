@@ -34,8 +34,9 @@ section{
 }
 
 .social-links{
-    margin-top: 5%:
-    margin-right: 100px; 
+    margin-top: 23%; 
+    position: relative;
+    right: 398px; 
 }
 
 .social-links a{
@@ -582,11 +583,21 @@ footer span a:hover{
         height: 350px;
         width: 350px;
     }
+     .social-links{
+        margin-top: 28%;
+        position: relative;
+        right: 398px;
+    }
 }
 
 @media (max-width: 991px) {
     .max-width{
         padding: 0 50px;
+    }
+    .social-links{
+        margin-top: 30%;
+        position: relative;
+        right: 398px;
     }
 }
 @media (max-width: 947px){
@@ -652,6 +663,11 @@ footer span a:hover{
         width: 100%;
         margin-bottom: 35px;
     }
+    .social-links{
+        margin-top: 30%;
+        position: relative;
+        right: 438px;
+    }
 }
 
 @media (max-width: 690px) {
@@ -669,6 +685,11 @@ footer span a:hover{
     }
     .services .serv-content .card{
         width: 100%;
+    }
+    .social-links{
+        margin-top: 37%;
+        position: relative;
+        right: 385px;
     }
 }
 
@@ -700,5 +721,10 @@ footer span a:hover{
         width: 35px;
         font-size: 23px;
         line-height: 38px;
+    }
+    .social-links{
+        margin-top: 43%;
+        position: absolute;
+        right: 342px;
     }
 }
